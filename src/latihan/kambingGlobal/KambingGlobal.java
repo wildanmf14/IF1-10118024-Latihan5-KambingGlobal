@@ -1,12 +1,12 @@
 package latihan.kambingGlobal;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : var global
+ */
 public class KambingGlobal {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : var global
-     */
+	
 	int jumlahKambing = 88;
 
     public void getJumlahKambing(){
